@@ -1,16 +1,10 @@
-# AI4MentalHealth 💚
+# Mental Health AI 💚
 
-## Live Application Links 🌐
-
-[![Presentation Link](https://img.shields.io/badge/Presentation_Link-808080?style=for-the-badge&logo=Google&logoColor=white)](https://docs.google.com/presentation/d/1MOpAVT97rVr3FBrZUoh3YzQ-wVk_Bs2A-gLwHbBo8go/edit?usp=sharing)
-
-[![Demo Link](https://img.shields.io/badge/Demo_Link-808080?style=for-the-badge&logo=Loom&logoColor=white)](https://www.loom.com/share/dc6108d1c309493d9af014286ca3420a?sid=607bc134-3821-4eb7-b910-644675122170)
-
-## Meet Bruno
+## Meet Runo
 
 ![image](https://github.com/manjunath-ab/AI4MentalHealth/assets/114537365/07fe09b9-f688-4bfd-b893-9b139d48ecee)
 
-Bruno is our friendly chatbot, designed to provide a supportive and non-judgmental space for users seeking mental health support and information.
+Runo is our friendly chatbot, designed to provide a supportive and non-judgmental space for users seeking mental health support and information.
 
 ## Architecture
 
@@ -242,8 +236,4 @@ Contributions are welcome! Please follow these steps:
 3. Make your changes and commit them with descriptive commit messages.
 4. Push your changes to your forked repository.
 5. Submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
